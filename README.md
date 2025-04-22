@@ -24,10 +24,7 @@ Repo ini adalah kumpulan project portofolio saya yang menunjukkan skill saya dal
 
 ### 🔹 3. Manual Test Case & Bug Report
 📄 Contoh test case dan laporan bug:
-- Login test cases (Excel)
-- Simulasi laporan bug (Markdown)
-
-🔗 [Lihat file]([./manual-test-cases](https://docs.google.com/spreadsheets/d/1yHbhbc4NF3JwFE-osoGiugAqB-hkj_oS2iRgHKonLtc/edit?gid=0#gid=0))
+- Login test cases (Excel) 🔗 [Lihat file]((https://docs.google.com/spreadsheets/d/1yHbhbc4NF3JwFE-osoGiugAqB-hkj_oS2iRgHKonLtc/edit?gid=0#gid=0))
 
 ---
 
