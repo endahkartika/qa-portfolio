@@ -19,7 +19,7 @@ Repo ini adalah kumpulan project portofolio saya yang menunjukkan skill saya dal
 - ✅ Cart Testing
 - ✅ Create & Update User
 
-🔗 [Lihat project]([./fakestore-api-tests](https://github.com/endahkartika/qa-portfolio/tree/main/fakestore-api))
+🔗 [Lihat project](https://github.com/endahkartika/qa-portfolio/tree/main/fakestore-api))
 
 
 ### 🔹 3. Manual Test Case & Bug Report
