@@ -28,19 +28,6 @@ Repo ini adalah kumpulan project portofolio saya yang menunjukkan skill saya dal
 
 ---
 
-## 🧰 Tools & Teknologi
-
-| Tools        | Keterangan                    |
-|--------------|-------------------------------|
-| Python       | Bahasa utama untuk scripting  |
-| Pytest       | Framework untuk test automation |
-| Requests     | Library untuk API testing     |
-| Selenium     | Automation testing untuk UI   |
-| Postman      | Manual API testing            |
-| Git & GitHub | Versi kontrol & kolaborasi    |
-
-
----
 
 ## 📫 Kontak
 
