@@ -1,4 +1,4 @@
-# 🧪 QA Automation Portfolio by [Nama Kamu]
+# 🧪 QA Automation Portfolio by Endah Kartikaningsih
 
 Halo! 👋 Saya Endah Kartikaningsih, seorang QA Engineer dengan pengalaman dalam automation testing untuk API dan UI menggunakan Python, Pytest, dan Postman.
 
